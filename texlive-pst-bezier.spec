@@ -54,3 +54,17 @@ control points of the curve.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar dvips tex doc source %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Wed Jan 04 2012 Paulo Andrade <pcpa@mandriva.com.br> 0.01-2
++ Revision: 755222
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 0.01-1
++ Revision: 719335
+- texlive-pst-bezier
+- texlive-pst-bezier
+- texlive-pst-bezier
+- texlive-pst-bezier
+
