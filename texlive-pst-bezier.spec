@@ -6,7 +6,7 @@
 # catalog-version 0.01
 Name:		texlive-pst-bezier
 Version:	0.01
-Release:	2
+Release:	3
 Summary:	Draw Bezier curves
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-bezier
