@@ -1,6 +1,6 @@
 Name:		texlive-pst-bezier
 Version:	41981
-Release:	1
+Release:	2
 Summary:	Draw Bezier curves
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-bezier
