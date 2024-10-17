@@ -3,7 +3,7 @@ Version:	41981
 Release:	2
 Summary:	Draw Bezier curves
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-bezier
+URL:		https://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-bezier
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-bezier.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-bezier.doc.r%{version}.tar.xz
